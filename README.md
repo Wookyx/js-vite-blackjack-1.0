@@ -1,6 +1,6 @@
  # BLACK JACK VERSION 1.O 
  
- # FECHA DE CREACION 22/ 07 / 2024 
+ ## FECHA DE CREACION 22/ 07 / 2024 
 
 Pasos para ejecutar el proyecto :
 
